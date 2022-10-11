@@ -1,0 +1,12 @@
+"""
+The map.py constants
+"""
+STATE_BEGIN = 0
+GAME_WIDTH = 800
+GAME_HEIGHT = 500
+
+MAP_X = GAME_WIDTH/2
+MAP_Y = 0
+MAP_WIDTH = 1280
+MAP_HEIGHT = 1086
+MAP_SOURCE = 'map.png'
